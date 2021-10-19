@@ -41,6 +41,56 @@ public class CarInsurance {
         return calcInsurace();
     }
 
+    //getters & setters
+
+    getAge(){
+        return this.age;
+    }
+
+    getSex(){
+        return this.sex;
+    }
+
+    getPrima(){
+        return this.prima;
+    }
+
+    getEstadoCivil(){
+        return this.estadoCivil;
+    }
+
+    getDocumento(){
+        return this.documento;
+    }
+
+    setAge(int age){
+        this.age=age;
+        return this.age;
+    }
+
+    setSex(String sex){
+        this.sex=sex;
+        return this.sex;
+    }
+
+    setEstadoCivil(String estadoCivil){
+        this.estadoCivil=estadoCivil;
+        return this.estadoCivil;
+    }
+    
+    setPrima(int prima){
+        this.prima=prima;
+        return this.prima;
+    }
+
+    setDocumento(boolean documento){
+        this.documento=documento;
+        return this.documento
+    }
+
+
+
+
     
 
 }

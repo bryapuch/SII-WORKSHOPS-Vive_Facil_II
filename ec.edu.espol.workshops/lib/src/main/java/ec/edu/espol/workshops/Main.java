@@ -35,7 +35,7 @@ public class Main {
             System.out.println("2) Femenino");
             Scanner sexoEscaner = new Scanner (System.in); //Creación de un objeto Scanner
             sexoOption = sexoEscaner.nextLine (); //Invocamos un método sobre un objeto Scanner 
-            if(validarEstado(estadoOption)){
+            if(validarEstado(sexoOption)){
                 sexoInvalido=false;
             }else{
                 System.out.println("Ingrese 1 ó 2 solamente");

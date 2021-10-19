@@ -43,49 +43,49 @@ public class CarInsurance {
 
     //getters & setters
 
-    getAge(){
+    public int getAge(){
         return this.age;
     }
 
-    getSex(){
+    public String getSex(){
         return this.sex;
     }
 
-    getPrima(){
+    public int getPrima(){
         return this.prima;
     }
 
-    getEstadoCivil(){
+    public String getEstadoCivil(){
         return this.estadoCivil;
     }
 
-    getDocumento(){
+    public boolean getDocumento(){
         return this.documento;
     }
 
-    setAge(int age){
+    public int setAge(int age){
         this.age=age;
         return this.age;
     }
 
-    setSex(String sex){
+    public String setSex(String sex){
         this.sex=sex;
         return this.sex;
     }
 
-    setEstadoCivil(String estadoCivil){
+    public String setEstadoCivil(String estadoCivil){
         this.estadoCivil=estadoCivil;
         return this.estadoCivil;
     }
     
-    setPrima(int prima){
+    public int setPrima(int prima){
         this.prima=prima;
         return this.prima;
     }
 
-    setDocumento(boolean documento){
+    public boolean setDocumento(boolean documento){
         this.documento=documento;
-        return this.documento
+        return this.documento;
     }
 
 

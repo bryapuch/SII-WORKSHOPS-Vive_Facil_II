@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.39.0" timestamp="2021-10-22T16:05:50.525">
+<file name="src/main/java/ec/edu/espol/workshops/CarInsurance.java">
+<violation beginline="4" endline="96" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="4" endline="96" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="11" endline="16" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="11" endline="16" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="19" endline="32" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="19" endline="32" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="21" endline="21" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="34" endline="42" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="34" endline="42" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="35" endline="35" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="35" endline="35" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="66" endline="69" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="66" endline="69" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="71" endline="74" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="71" endline="74" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="76" endline="79" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="76" endline="79" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="81" endline="84" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="81" endline="84" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="86" endline="89" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="86" endline="89" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/Main.java">
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'Main' has a Modified Cyclomatic Complexity of 6 (Highest = 12).
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'Main' has a Modified Cyclomatic Complexity of 6 (Highest = 12).
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'Main' has a Standard Cyclomatic Complexity of 6 (Highest = 12).
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'Main' has a Standard Cyclomatic Complexity of 6 (Highest = 12).
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="5" endline="110" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 22, current threshold is 15
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 22, current threshold is 15
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 648, current threshold is 200
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 648, current threshold is 200
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="NcssCount" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#ncsscount" priority="3">
+NcssCount: The method 'main(String)' has a NCSS line count of 66.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="NcssCount" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#ncsscount" priority="3">
+NcssCount: The method 'main(String)' has a NCSS line count of 66.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="7" endline="87" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="8" endline="25" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ageIn' (lines '8'-'25').
+</violation>
+<violation beginline="8" endline="25" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ageIn' (lines '8'-'25').
+</violation>
+<violation beginline="9" endline="70" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estado' (lines '9'-'70').
+</violation>
+<violation beginline="9" endline="70" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estado' (lines '9'-'70').
+</violation>
+<violation beginline="9" endline="72" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estado' (lines '9'-'72').
+</violation>
+<violation beginline="9" endline="72" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estado' (lines '9'-'72').
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'estado' is never used (overwritten on lines 70 and 72)
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'estado' is never used (overwritten on lines 70 and 72)
+</violation>
+<violation beginline="10" endline="75" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexo' (lines '10'-'75').
+</violation>
+<violation beginline="10" endline="75" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexo' (lines '10'-'75').
+</violation>
+<violation beginline="10" endline="77" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexo' (lines '10'-'77').
+</violation>
+<violation beginline="10" endline="77" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexo' (lines '10'-'77').
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'sexo' is never used (overwritten on lines 75 and 77)
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'sexo' is never used (overwritten on lines 75 and 77)
+</violation>
+<violation beginline="11" endline="80" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencial' (lines '11'-'80').
+</violation>
+<violation beginline="11" endline="80" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencial' (lines '11'-'80').
+</violation>
+<violation beginline="11" endline="82" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencial' (lines '11'-'82').
+</violation>
+<violation beginline="11" endline="82" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencial' (lines '11'-'82').
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'credencial' is never used (overwritten on lines 80 and 82)
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="UnusedAssignment" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#unusedassignment" priority="3">
+UnusedAssignment: The initializer for variable 'credencial' is never used (overwritten on lines 80 and 82)
+</violation>
+<violation beginline="12" endline="50" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estadoOption' (lines '12'-'50').
+</violation>
+<violation beginline="12" endline="50" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'estadoOption' (lines '12'-'50').
+</violation>
+<violation beginline="13" endline="62" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencialOption' (lines '13'-'62').
+</violation>
+<violation beginline="13" endline="62" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'credencialOption' (lines '13'-'62').
+</violation>
+<violation beginline="14" endline="37" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexoOption' (lines '14'-'37').
+</violation>
+<violation beginline="14" endline="37" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'sexoOption' (lines '14'-'37').
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="33" endline="33" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="33" endline="33" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="34" endline="34" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="34" endline="34" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="35" endline="35" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="35" endline="35" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="41" endline="41" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="41" endline="41" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="47" endline="47" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="47" endline="47" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="48" endline="48" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="48" endline="48" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="54" endline="54" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="54" endline="54" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="60" endline="60" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="60" endline="60" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Performance" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_performance.html#avoidinstantiatingobjectsinloops" priority="3">
+AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="66" endline="66" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="66" endline="66" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="79" endline="79" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="85" endline="85" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="85" endline="85" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+CompareObjectsWithEquals: Use equals() to compare object references.
+</violation>
+<violation beginline="92" endline="94" begincolumn="0" endcolumn="0" rule="SimplifyBooleanReturns" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#simplifybooleanreturns" priority="3">
+SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+</violation>
+<violation beginline="92" endline="94" begincolumn="0" endcolumn="0" rule="SimplifyBooleanReturns" ruleset="Design" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_design.html#simplifybooleanreturns" priority="3">
+SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+<violation beginline="92" endline="92" begincolumn="0" endcolumn="0" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="ec.edu.espol.workshops" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+</violation>
+</file>
+</pmd>

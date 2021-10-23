@@ -21,13 +21,14 @@ public class Main {
 
         while(edadInvalida){
             System.out.println("Ingrese la edad: ");
-            Scanner ageEscaner = new Scanner (System.in); //Creación de un objeto Scanner
+            Scanner ageEscaner = new Scanner (System.in, "UTF-8"); //Creación de un objeto Scanner
             ageIn = ageEscaner.nextLine (); //Invocamos un método sobre un objeto Scanner 
             if(isNumeric(ageIn)){
                 edadInvalida=false;
             }else{
                 System.out.println("Edad inválida");
             }
+            ageEscaner.close();
         }
         while(sexoInvalido){
             System.out.println("Escoja el sexo (1 ó 2): ");
@@ -40,6 +41,7 @@ public class Main {
             }else{
                 System.out.println("Ingrese 1 ó 2 solamente");
             }
+            sexoEscaner.close();
             
         }
         while(estadoInvalido){
@@ -53,6 +55,7 @@ public class Main {
             }else{
                 System.out.println("Ingrese 1 ó 2 solamente");
             }
+            estadoEscaner.close();
         }
         while(credencialInvalida){
             System.out.println("Ingrese la verificación del carnet de conducir: ");
@@ -65,18 +68,20 @@ public class Main {
             }else{
                 System.out.println("Ingrese una opción válida");
             }
+            credencialEscaner.close();
+            
         }
-        if(estadoOption=="1"){
+        if(estadoOption.equals("1")){
             estado="Casado";
         }else{
             estado="No Casado";
         }
-        if(sexoOption=="1"){
+        if(sexoOption.equals("1")){
             sexo="M";
         }else{
             sexo="F";
         }
-        if(credencialOption=="1"){
+        if(credencialOption.equals("1")){
             credencial=true;
         }else{
             credencial=false;
@@ -89,12 +94,12 @@ public class Main {
     
 
     private static boolean validarEstado(String estadoCivil) {
-        if(estadoCivil=="1"||estadoCivil=="2"){
+        if(estadoCivil.equals("1")||estadoCivil.equals("2")){
             return true;
         }
         return false;
     }
-
+    
 
 
     private static boolean isNumeric(String ageIn) {

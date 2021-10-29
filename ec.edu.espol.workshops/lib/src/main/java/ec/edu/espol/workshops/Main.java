@@ -66,17 +66,17 @@ public class Main {
                 System.out.println("Ingrese una opción válida");
             }
         }
-        if(estadoOption=="1"){
+        if("1".equals(estadoOption)){
             estado="Casado";
         }else{
             estado="No Casado";
         }
-        if(sexoOption=="1"){
+        if("1".equals(sexoOption)){
             sexo="M";
         }else{
             sexo="F";
         }
-        if(credencialOption=="1"){
+        if("1".equals(credencialOption)){
             credencial=true;
         }else{
             credencial=false;
@@ -89,7 +89,7 @@ public class Main {
     
 
     private static boolean validarEstado(String estadoCivil) {
-        if(estadoCivil=="1"||estadoCivil=="2"){
+        if("1".equals(estadoCivil) || "2".equals(estadoCivil) ){
             return true;
         }
         return false;

@@ -74,7 +74,7 @@ public class Main {
         if(estadoOption.equals("1")){
             estado="Casado";
         }else{
-            estado="No Casado";
+            estado="No_Casado";
         }
         if(sexoOption.equals("1")){
             sexo="M";

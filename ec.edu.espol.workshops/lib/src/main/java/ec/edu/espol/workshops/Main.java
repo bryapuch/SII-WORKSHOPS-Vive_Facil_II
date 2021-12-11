@@ -21,27 +21,27 @@ public class Main {
 
         while(edadInvalida){
             System.out.println("Ingrese la edad: ");
-            Scanner ageEscaner = new Scanner (System.in, "UTF-8"); //Creación de un objeto Scanner
+            Scanner ageEscaner = new Scanner (System.in); //Creación de un objeto Scanner
             ageIn = ageEscaner.nextLine (); //Invocamos un método sobre un objeto Scanner 
             if(isNumeric(ageIn)){
                 edadInvalida=false;
             }else{
                 System.out.println("Edad inválida");
             }
-            ageEscaner.close();
+//            ageEscaner.close();
         }
         while(sexoInvalido){
             System.out.println("Escoja el sexo (1 ó 2): ");
             System.out.println("1) Masculino");
             System.out.println("2) Femenino");
-            Scanner sexoEscaner = new Scanner (System.in); //Creación de un objeto Scanner
+            Scanner sexoEscaner = new Scanner (System.in, "UTF-8"); //Creación de un objeto Scanner
             sexoOption = sexoEscaner.nextLine (); //Invocamos un método sobre un objeto Scanner 
             if(validarEstado(sexoOption)){
                 sexoInvalido=false;
             }else{
                 System.out.println("Ingrese 1 ó 2 solamente");
             }
-            sexoEscaner.close();
+//            sexoEscaner.close();
             
         }
         while (estadoInvalido){
@@ -55,7 +55,7 @@ public class Main {
             }else{
                 System.out.println("Ingrese 1 ó 2 solamente");
             }
-            estadoEscaner.close();
+//            estadoEscaner.close();
         }
         while(credencialInvalida){
             System.out.println("Ingrese la verificación del carnet de conducir: ");
@@ -68,7 +68,7 @@ public class Main {
             }else{
                 System.out.println("Ingrese una opción válida");
             }
-            credencialEscaner.close();
+//            credencialEscaner.close();
             
         }
         if(estadoOption.equals("1")){

@@ -17,7 +17,7 @@ public class CarInsurance {
 
 
   public int calcInsurace() {
-    prima = 500;
+    prima = 600;
     if(sex.equals("M") && estadoCivil.equals("No_casado") && age<=25){
       prima += 1500;
     }
